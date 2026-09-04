@@ -1,0 +1,8 @@
+# --- Binario portable de terceros (el usuario lo coloca aquí, ver README) ---
+/Bin/
+
+# --- Runtime ---
+/Logs/
+
+# --- Base de datos generada por Scan (regenerable, y trae rutas de la máquina) ---
+/Database/games.json

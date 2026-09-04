@@ -1,0 +1,1154 @@
+﻿[
+    {
+        "ShortID":  "amazon",
+        "Engine":  "access",
+        "Title":  "Amazon: Guardians of Eden",
+        "Series":  "",
+        "FolderName":  "Amazon_Guardians_of_Eden",
+        "ScummVMID":  "amazon",
+        "ScraperTitle":  "Amazon: Guardians of Eden (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "atlantis",
+        "Engine":  "scumm",
+        "Title":  "Fate of Atlantis",
+        "Series":  "Indiana Jones",
+        "FolderName":  "Indiana Jones and the fate of Atlantis",
+        "ScummVMID":  "atlantis",
+        "ScraperTitle":  "Indiana Jones and the Fate of Atlantis (CD/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "bargon",
+        "Engine":  "gob",
+        "Title":  "Bargon Attack",
+        "Series":  "",
+        "FolderName":  "Bargon_Attack",
+        "ScummVMID":  "bargon",
+        "ScraperTitle":  "Bargon Attack (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "bbvs",
+        "Engine":  "bbvs",
+        "Title":  "Beavis and Butt-Head in Virtual Stupidity",
+        "Series":  "",
+        "FolderName":  "Beavis and Butt-head in Virtual Stupidity (CD Windows)",
+        "ScummVMID":  "bbvs",
+        "ScraperTitle":  "Beavis and Butt-Head in Virtual Stupidity (Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "blackwell1",
+        "Engine":  "ags",
+        "Title":  "The Blackwell Legacy",
+        "Series":  "",
+        "FolderName":  "Legacy",
+        "ScummVMID":  "blackwell1",
+        "ScraperTitle":  "The Blackwell Legacy (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "blackwell2",
+        "Engine":  "ags",
+        "Title":  "Blackwell Unbound",
+        "Series":  "",
+        "FolderName":  "Unbound",
+        "ScummVMID":  "blackwell2",
+        "ScraperTitle":  "Blackwell Unbound (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "blackwell3",
+        "Engine":  "ags",
+        "Title":  "The Blackwell Convergence",
+        "Series":  "",
+        "FolderName":  "Convergence",
+        "ScummVMID":  "blackwell3",
+        "ScraperTitle":  "The Blackwell Convergence (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "blackwell4",
+        "Engine":  "ags",
+        "Title":  "The Blackwell Deception",
+        "Series":  "",
+        "FolderName":  "Deception",
+        "ScummVMID":  "blackwell4",
+        "ScraperTitle":  "The Blackwell Deception (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "bladerunner",
+        "Engine":  "bladerunner",
+        "Title":  "Blade Runner",
+        "Series":  "",
+        "FolderName":  "Blade_Runner",
+        "ScummVMID":  "bladerunner",
+        "ScraperTitle":  "Blade Runner (Windows/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "bladerunner-final",
+        "Engine":  "bladerunner",
+        "Title":  "Blade Runner with restored content",
+        "Series":  "",
+        "FolderName":  "Blade_Runner",
+        "ScummVMID":  "bladerunner-final",
+        "ScraperTitle":  "Blade Runner with restored content (Windows/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "bra",
+        "Engine":  "parallaction",
+        "Title":  "The Big Red Adventure",
+        "Series":  "",
+        "FolderName":  "The Big Red Adventure (DOS, Multilanguage)",
+        "ScummVMID":  "bra",
+        "ScraperTitle":  "The Big Red Adventure (Multi-lingual/DOS)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "castlebrain",
+        "Engine":  "sci",
+        "Title":  "Castle of Dr. Brain",
+        "Series":  "",
+        "FolderName":  "Castle_of_Dr_Brain",
+        "ScummVMID":  "castlebrain",
+        "ScraperTitle":  "Castle of Dr. Brain (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "comi",
+        "Engine":  "scumm",
+        "Title":  "The Curse of Monkey Island",
+        "Series":  "",
+        "FolderName":  "The Curse Of Monkey Island (CD Windows)",
+        "ScummVMID":  "comi",
+        "ScraperTitle":  "The Curse of Monkey Island (Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "cruise",
+        "Engine":  "cruise",
+        "Title":  "Cruise for a Corpse",
+        "Series":  "",
+        "FolderName":  "Cruise_for_a_Corpse",
+        "ScummVMID":  "cruise",
+        "ScraperTitle":  "Cruise for a Corpse (256 colors/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "dig",
+        "Engine":  "scumm",
+        "Title":  "The Dig",
+        "Series":  "",
+        "FolderName":  "The Dig (CD DOS)",
+        "ScummVMID":  "dig",
+        "ScraperTitle":  "The Dig",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "drascula",
+        "Engine":  "drascula",
+        "Title":  "Drascula: The Vampire Strikes Back",
+        "Series":  "",
+        "FolderName":  "Drascula_The_Vampire_Strikes_Back",
+        "ScummVMID":  "drascula",
+        "ScraperTitle":  "Drascula: The Vampire Strikes Back (DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "dreamswitchhouse",
+        "Engine":  "ags",
+        "Title":  "Dreams in the Witch House",
+        "Series":  "",
+        "FolderName":  "Dreams in the Witch House",
+        "ScummVMID":  "dreamswitchhouse",
+        "ScraperTitle":  "Dreams in the Witch House (GOG.com)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "dreamweb",
+        "Engine":  "dreamweb",
+        "Title":  "DreamWeb",
+        "Series":  "",
+        "FolderName":  "DreamWeb",
+        "ScummVMID":  "dreamweb",
+        "ScraperTitle":  "DreamWeb (CD/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "dw",
+        "Engine":  "tinsel",
+        "Title":  "",
+        "Series":  "Discworld",
+        "FolderName":  "Discworld_1",
+        "ScummVMID":  "dw",
+        "ScraperTitle":  "Discworld (CD/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "dw2",
+        "Engine":  "tinsel",
+        "Title":  "II: Missing Presumed ...!?",
+        "Series":  "Discworld",
+        "FolderName":  "Discworld_2",
+        "ScummVMID":  "dw2",
+        "ScraperTitle":  "Discworld II: Missing Presumed ...!? (CD/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "ecoquest",
+        "Engine":  "sci",
+        "Title":  "EcoQuest: The Search for Cetus",
+        "Series":  "",
+        "FolderName":  "EcoQuest_1",
+        "ScummVMID":  "ecoquest",
+        "ScraperTitle":  "EcoQuest: The Search for Cetus (CD/Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "ecoquest2",
+        "Engine":  "sci",
+        "Title":  "EcoQuest II: Lost Secret of the Rainforest",
+        "Series":  "",
+        "FolderName":  "EcoQuest_2",
+        "ScummVMID":  "ecoquest2",
+        "ScraperTitle":  "EcoQuest II: Lost Secret of the Rainforest (Floppy/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "excavationhb",
+        "Engine":  "ags",
+        "Title":  "The Excavation of Hob\u0027s Barrow",
+        "Series":  "",
+        "FolderName":  "The Excavation at Hob\u0027s Barrow",
+        "ScummVMID":  "excavationhb",
+        "ScraperTitle":  "The Excavation of Hob\u0027s Barrow (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "fascination",
+        "Engine":  "gob",
+        "Title":  "Fascination",
+        "Series":  "",
+        "FolderName":  "Fascination",
+        "ScummVMID":  "fascination",
+        "ScraperTitle":  "Fascination (CD (Censored)/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "ft",
+        "Engine":  "scumm",
+        "Title":  "Full Throttle",
+        "Series":  "",
+        "FolderName":  "Full_Throttle",
+        "ScummVMID":  "ft",
+        "ScraperTitle":  "Full Throttle (Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "fw",
+        "Engine":  "cine",
+        "Title":  "Future Wars",
+        "Series":  "",
+        "FolderName":  "Future_Wars",
+        "ScummVMID":  "fw",
+        "ScraperTitle":  "Future Wars (Sony CD version/DOS/English (US))",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "geisha",
+        "Engine":  "gob",
+        "Title":  "Geisha",
+        "Series":  "",
+        "FolderName":  "Geisha",
+        "ScummVMID":  "geisha",
+        "ScraperTitle":  "Geisha (v1.0/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "gk1",
+        "Engine":  "sci",
+        "Title":  "Sins of the Fathers",
+        "Series":  "Gabriel Knight",
+        "FolderName":  "Gabriel Knight Sins Of The Fathers (CD DOS)",
+        "ScummVMID":  "gk1",
+        "ScraperTitle":  "Gabriel Knight: Sins of the Fathers (CD/Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "gk2",
+        "Engine":  "sci",
+        "Title":  "The Beast Within: A Gabriel Knight Mystery",
+        "Series":  "",
+        "FolderName":  "Gabriel_Knight_2",
+        "ScummVMID":  "gk2",
+        "ScraperTitle":  "The Beast Within: A Gabriel Knight Mystery (DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "gob1",
+        "Engine":  "gob",
+        "Title":  "",
+        "Series":  "Gobliiins",
+        "FolderName":  "Gobliiins_1",
+        "ScummVMID":  "gob1",
+        "ScraperTitle":  "Gobliiins (CD v1.02/DOS/English (US))",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "gob2",
+        "Engine":  "gob",
+        "Title":  "Gobliins 2",
+        "Series":  "",
+        "FolderName":  "Gobliins_2",
+        "ScummVMID":  "gob2",
+        "ScraperTitle":  "Gobliins 2 (CD v2.01/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "gob3",
+        "Engine":  "gob",
+        "Title":  "Goblins Quest 3",
+        "Series":  "",
+        "FolderName":  "Goblins_3",
+        "ScummVMID":  "gob3",
+        "ScraperTitle":  "Goblins Quest 3 (CD v1.02/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "grim",
+        "Engine":  "grim",
+        "Title":  "Grim Fandango",
+        "Series":  "",
+        "FolderName":  "Grim Fandango",
+        "ScummVMID":  "grim",
+        "ScraperTitle":  "Grim Fandango (Windows/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "ihnm",
+        "Engine":  "saga",
+        "Title":  "I Have No Mouth and I Must Scream",
+        "Series":  "",
+        "FolderName":  "I_Have_No_Mouth_and_I_Must_Scream",
+        "ScummVMID":  "ihnm",
+        "ScraperTitle":  "I Have No Mouth and I Must Scream (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "indy3",
+        "Engine":  "scumm",
+        "Title":  "Last Crusade",
+        "Series":  "Indiana Jones",
+        "FolderName":  "Indiana Jones and the Last Crusade (FM Towns)",
+        "ScummVMID":  "indy3",
+        "ScraperTitle":  "Indiana Jones and the Last Crusade (FM-TOWNS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "ite",
+        "Engine":  "saga",
+        "Title":  "Inherit the Earth: Quest for the Orb",
+        "Series":  "",
+        "FolderName":  "Inherit_the_Earth_Quest_for_the_Orb",
+        "ScummVMID":  "ite",
+        "ScraperTitle":  "Inherit the Earth: Quest for the Orb (DOS CD Version 1/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kq1agdi",
+        "Engine":  "ags",
+        "Title":  "I: Quest for the Crown Remake",
+        "Series":  "King\u0027s Quest",
+        "FolderName":  "Kings_Quest_1_Remake",
+        "ScummVMID":  "kq1agdi",
+        "ScraperTitle":  "King\u0027s Quest I: Quest for the Crown Remake (English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kq1sci",
+        "Engine":  "sci",
+        "Title":  "I: Quest for the Crown",
+        "Series":  "King\u0027s Quest",
+        "FolderName":  "Kings_Quest_1",
+        "ScummVMID":  "kq1sci",
+        "ScraperTitle":  "King\u0027s Quest I: Quest for the Crown (SCI/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kq2",
+        "Engine":  "agi",
+        "Title":  "II: Romancing the Throne",
+        "Series":  "King\u0027s Quest",
+        "FolderName":  "Kings_Quest_2",
+        "ScummVMID":  "kq2",
+        "ScraperTitle":  "King\u0027s Quest II: Romancing the Throne (2.1 1987-04-10/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kq3",
+        "Engine":  "agi",
+        "Title":  "III: To Heir Is Human",
+        "Series":  "King\u0027s Quest",
+        "FolderName":  "Kings_Quest_3",
+        "ScummVMID":  "kq3",
+        "ScraperTitle":  "King\u0027s Quest III: To Heir Is Human (2.14 1988-03-15 3.5\"/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kq4sci",
+        "Engine":  "sci",
+        "Title":  "IV: The Perils of Rosella",
+        "Series":  "King\u0027s Quest",
+        "FolderName":  "Kings_Quest_4",
+        "ScummVMID":  "kq4sci",
+        "ScraperTitle":  "King\u0027s Quest IV: The Perils of Rosella (SCI/DOS)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kq5",
+        "Engine":  "sci",
+        "Title":  "V: Absence Makes the Heart Go Yonder",
+        "Series":  "King\u0027s Quest",
+        "FolderName":  "Kings_Quest_5",
+        "ScummVMID":  "kq5",
+        "ScraperTitle":  "King\u0027s Quest V: Absence Makes the Heart Go Yonder (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kq6",
+        "Engine":  "sci",
+        "Title":  "VI: Heir Today, Gone Tomorrow",
+        "Series":  "King\u0027s Quest",
+        "FolderName":  "Kings_Quest_6",
+        "ScummVMID":  "kq6",
+        "ScraperTitle":  "King\u0027s Quest VI: Heir Today, Gone Tomorrow (CD/Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kyra1",
+        "Engine":  "kyra",
+        "Title":  "The Legend of Kyrandia",
+        "Series":  "",
+        "FolderName":  "The_Legend_of_Kyrandia_1",
+        "ScummVMID":  "kyra1",
+        "ScraperTitle":  "The Legend of Kyrandia (Extracted/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "kyra3",
+        "Engine":  "kyra",
+        "Title":  "The Legend of Kyrandia: Malcolm\u0027s Revenge",
+        "Series":  "",
+        "FolderName":  "The_Legend_of_Kyrandia_3_es",
+        "ScummVMID":  "kyra3",
+        "ScraperTitle":  "The Legend of Kyrandia: Malcolm\u0027s Revenge (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lamplightcity",
+        "Engine":  "ags",
+        "Title":  "Lamplight City",
+        "Series":  "",
+        "FolderName":  "Lamplight City",
+        "ScummVMID":  "lamplightcity",
+        "ScraperTitle":  "Lamplight City (GOG.com)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "laurabow",
+        "Engine":  "sci",
+        "Title":  "I: The Colonel\u0027s Bequest",
+        "Series":  "Laura Bow",
+        "FolderName":  "Laura_Bow_1",
+        "ScummVMID":  "laurabow",
+        "ScraperTitle":  "Laura Bow I: The Colonel\u0027s Bequest (DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "laurabow2",
+        "Engine":  "sci",
+        "Title":  "II: The Dagger of Amon Ra",
+        "Series":  "Laura Bow",
+        "FolderName":  "Laura_Bow_2",
+        "ScummVMID":  "laurabow2",
+        "ScraperTitle":  "Laura Bow II: The Dagger of Amon Ra (CD/Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "level9v3",
+        "Engine":  "glk",
+        "Title":  "Unknown Level 9 game or version",
+        "Series":  "",
+        "FolderName":  "Future_Wars",
+        "ScummVMID":  "level9v3",
+        "ScraperTitle":  "Unknown Level 9 game or version (v3)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lit",
+        "Engine":  "gob",
+        "Title":  "Lost in Time",
+        "Series":  "",
+        "FolderName":  "Lost in Time (CD DOS, Multilanguage)",
+        "ScummVMID":  "lit",
+        "ScraperTitle":  "Lost in Time (CD v1.00/DOS/English (US))",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "loom",
+        "Engine":  "scumm",
+        "Title":  "Loom",
+        "Series":  "",
+        "FolderName":  "Loom",
+        "ScummVMID":  "loom",
+        "ScraperTitle":  "Loom (FM-TOWNS/FM-TOWNS)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lsl1sci",
+        "Engine":  "sci",
+        "Title":  "in the Land of the Lounge Lizards",
+        "Series":  "Leisure Suit Larry",
+        "FolderName":  "Leisure_Suit_Larry_1",
+        "ScummVMID":  "lsl1sci",
+        "ScraperTitle":  "Leisure Suit Larry in the Land of the Lounge Lizards (SCI/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lsl2",
+        "Engine":  "sci",
+        "Title":  "2: Goes Looking for Love",
+        "Series":  "Leisure Suit Larry",
+        "FolderName":  "Leisure_Suit_Larry_2",
+        "ScummVMID":  "lsl2",
+        "ScraperTitle":  "Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) (DOS)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lsl3",
+        "Engine":  "sci",
+        "Title":  "3: Passionate Patti in Pursuit of the Pulsating Pectorals",
+        "Series":  "Leisure Suit Larry",
+        "FolderName":  "Leisure_Suit_Larry_3",
+        "ScummVMID":  "lsl3",
+        "ScraperTitle":  "Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals (DOS)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lsl5",
+        "Engine":  "sci",
+        "Title":  "5: Passionate Patti Does a Little Undercover Work",
+        "Series":  "Leisure Suit Larry",
+        "FolderName":  "Leisure_Suit_Larry_5",
+        "ScummVMID":  "lsl5",
+        "ScraperTitle":  "Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lsl6",
+        "Engine":  "sci",
+        "Title":  "6: Shape Up or Slip Out!",
+        "Series":  "Leisure Suit Larry",
+        "FolderName":  "Leisure_Suit_Larry_6",
+        "ScummVMID":  "lsl6",
+        "ScraperTitle":  "Leisure Suit Larry 6: Shape Up or Slip Out! (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lsl7",
+        "Engine":  "sci",
+        "Title":  "7: Love for Sail!",
+        "Series":  "Leisure Suit Larry",
+        "FolderName":  "Leisure Suit Larry 7 - Love for Sail (CD DOS)",
+        "ScummVMID":  "lsl7",
+        "ScraperTitle":  "Leisure Suit Larry 7: Love for Sail! (DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "lure",
+        "Engine":  "lure",
+        "Title":  "Lure of the Temptress",
+        "Series":  "",
+        "FolderName":  "Lure_of_the_Temptress",
+        "ScummVMID":  "lure",
+        "ScraperTitle":  "Lure of the Temptress (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "maniac",
+        "Engine":  "scumm",
+        "Title":  "Maniac Mansion",
+        "Series":  "",
+        "FolderName":  "MANIAC",
+        "ScummVMID":  "maniac",
+        "ScraperTitle":  "Maniac Mansion (V1/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "maniacmansiondeluxe",
+        "Engine":  "ags",
+        "Title":  "Maniac Mansion Deluxe",
+        "Series":  "",
+        "FolderName":  "Maniac Mansion Deluxe",
+        "ScummVMID":  "maniacmansiondeluxe",
+        "ScraperTitle":  "Maniac Mansion Deluxe",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "monkey",
+        "Engine":  "scumm",
+        "Title":  "The Secret of Monkey Island",
+        "Series":  "",
+        "FolderName":  "The Secret of Monkey Island (CD DOS VGA)",
+        "ScummVMID":  "monkey",
+        "ScraperTitle":  "The Secret of Monkey Island (Unofficial SE Talkie v1.02/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "monkey2",
+        "Engine":  "scumm",
+        "Title":  "2: LeChuck\u0027s Revenge",
+        "Series":  "Monkey Island",
+        "FolderName":  "Monkey_Island_2",
+        "ScummVMID":  "monkey2",
+        "ScraperTitle":  "Monkey Island 2: LeChuck\u0027s Revenge (Unofficial SE Talkie v0.2/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "myst",
+        "Engine":  "mohawk",
+        "Title":  "Myst",
+        "Series":  "",
+        "FolderName":  "Myst",
+        "ScummVMID":  "myst",
+        "ScraperTitle":  "Myst (Masterpiece Edition/Windows/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "oldskies",
+        "Engine":  "ags",
+        "Title":  "Old Skies",
+        "Series":  "",
+        "FolderName":  "Old Skies",
+        "ScummVMID":  "oldskies",
+        "ScraperTitle":  "Old Skies (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "pq1sci",
+        "Engine":  "sci",
+        "Title":  "In Pursuit of the Death Angel",
+        "Series":  "Police Quest",
+        "FolderName":  "Police_Quest_1",
+        "ScummVMID":  "pq1sci",
+        "ScraperTitle":  "Police Quest: In Pursuit of the Death Angel (SCI/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "pq2",
+        "Engine":  "sci",
+        "Title":  "II: The Vengeance",
+        "Series":  "Police Quest",
+        "FolderName":  "Police_Quest_2",
+        "ScummVMID":  "pq2",
+        "ScraperTitle":  "Police Quest II: The Vengeance (Amiga/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "pq3",
+        "Engine":  "sci",
+        "Title":  "III: The Kindred",
+        "Series":  "Police Quest",
+        "FolderName":  "Police_Quest_3",
+        "ScummVMID":  "pq3",
+        "ScraperTitle":  "Police Quest III: The Kindred (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "primordia",
+        "Engine":  "ags",
+        "Title":  "Primordia",
+        "Series":  "",
+        "FolderName":  "Primordia",
+        "ScummVMID":  "primordia",
+        "ScraperTitle":  "Primordia (GOG.com)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "qfg1vga",
+        "Engine":  "sci",
+        "Title":  "I: So You Want to Be a Hero",
+        "Series":  "Quest for Glory",
+        "FolderName":  "Quest_for_Glory_1",
+        "ScummVMID":  "qfg1vga",
+        "ScraperTitle":  "Quest for Glory I: So You Want to Be a Hero (VGA/DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "qfg2",
+        "Engine":  "sci",
+        "Title":  "II: Trial by Fire",
+        "Series":  "Quest for Glory",
+        "FolderName":  "Quest_for_Glory_2",
+        "ScummVMID":  "qfg2",
+        "ScraperTitle":  "Quest for Glory II: Trial by Fire (DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "qfg3",
+        "Engine":  "sci",
+        "Title":  "III: Wages of War",
+        "Series":  "Quest for Glory",
+        "FolderName":  "Quest_for_Glory_3",
+        "ScummVMID":  "qfg3",
+        "ScraperTitle":  "Quest for Glory III: Wages of War (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "queen",
+        "Engine":  "queen",
+        "Title":  "Flight of the Amazon Queen",
+        "Series":  "",
+        "FolderName":  "Flight_of_the_Amazon_Queen",
+        "ScummVMID":  "queen",
+        "ScraperTitle":  "Flight of the Amazon Queen (CD/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "rosetattoo",
+        "Engine":  "sherlock",
+        "Title":  "The Lost Files of Sherlock Holmes: Case of the Rose Tattoo",
+        "Series":  "",
+        "FolderName":  "Sherlock_Holmes_The_Case_of_the_Rose_Tattoo",
+        "ScummVMID":  "rosetattoo",
+        "ScraperTitle":  "The Lost Files of Sherlock Holmes: Case of the Rose Tattoo (CD/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "samnmax",
+        "Engine":  "scumm",
+        "Title":  "Sam \u0026 Max Hit the Road",
+        "Series":  "",
+        "FolderName":  "Sam and Max Hit the Road",
+        "ScummVMID":  "samnmax",
+        "ScraperTitle":  "Sam \u0026 Max Hit the Road (CD/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "scalpel",
+        "Engine":  "sherlock",
+        "Title":  "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel",
+        "Series":  "",
+        "FolderName":  "Sherlock_Holmes_The_Case_of_the_Serrated_Scalpel",
+        "ScummVMID":  "scalpel",
+        "ScraperTitle":  "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "simon1",
+        "Engine":  "agos",
+        "Title":  "",
+        "Series":  "Simon the Sorcerer",
+        "FolderName":  "Simon_The_Sorcerer_1",
+        "ScummVMID":  "simon1",
+        "ScraperTitle":  "Simon the Sorcerer (CD/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "simon2",
+        "Engine":  "agos",
+        "Title":  "II: The Lion, the Wizard and the Wardrobe",
+        "Series":  "Simon the Sorcerer",
+        "FolderName":  "Simon the Sorcerer 2 (CD Windows)",
+        "ScummVMID":  "simon2",
+        "ScraperTitle":  "Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe (CD/Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sky",
+        "Engine":  "sky",
+        "Title":  "Beneath a Steel Sky",
+        "Series":  "",
+        "FolderName":  "Beneath_Steel_Sky",
+        "ScummVMID":  "sky",
+        "ScraperTitle":  "Beneath a Steel Sky (v0.0368 CD/DOS)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sq1sci",
+        "Engine":  "sci",
+        "Title":  "I: Roger Wilco in the Sarien Encounter",
+        "Series":  "Space Quest",
+        "FolderName":  "Space_Quest_1_es",
+        "ScummVMID":  "sq1sci",
+        "ScraperTitle":  "Space Quest I: Roger Wilco in the Sarien Encounter (SCI/DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sq2",
+        "Engine":  "agi",
+        "Title":  "II: Chapter II - Vohaul\u0027s Revenge",
+        "Series":  "Space Quest",
+        "FolderName":  "Space_Quest_2",
+        "ScummVMID":  "sq2",
+        "ScraperTitle":  "Space Quest II: Chapter II - Vohaul\u0027s Revenge (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sq3",
+        "Engine":  "sci",
+        "Title":  "III: The Pirates of Pestulon",
+        "Series":  "Space Quest",
+        "FolderName":  "Space_Quest_3",
+        "ScummVMID":  "sq3",
+        "ScraperTitle":  "Space Quest III: The Pirates of Pestulon (Amiga/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sq4",
+        "Engine":  "sci",
+        "Title":  "IV: Roger Wilco and the Time Rippers",
+        "Series":  "Space Quest",
+        "FolderName":  "Space_Quest_4",
+        "ScummVMID":  "sq4",
+        "ScraperTitle":  "Space Quest IV: Roger Wilco and the Time Rippers (CD/Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sq5",
+        "Engine":  "sci",
+        "Title":  "V: The Next Mutation",
+        "Series":  "Space Quest",
+        "FolderName":  "Space_Quest_5",
+        "ScummVMID":  "sq5",
+        "ScraperTitle":  "Space Quest V: The Next Mutation (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "strangeland",
+        "Engine":  "ags",
+        "Title":  "Strangeland",
+        "Series":  "",
+        "FolderName":  "Strangeland",
+        "ScummVMID":  "strangeland",
+        "ScraperTitle":  "Strangeland (GOG.com)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sword2",
+        "Engine":  "sword2",
+        "Title":  "II: The Smoking Mirror",
+        "Series":  "Broken Sword",
+        "FolderName":  "Broken_Sword_2",
+        "ScummVMID":  "sword2",
+        "ScraperTitle":  "Broken Sword II: The Smoking Mirror (GOG/Windows/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "sword25",
+        "Engine":  "sword25",
+        "Title":  "2.5: The Return of the Templars",
+        "Series":  "Broken Sword",
+        "FolderName":  "Broken Sword 2.5 - The Return of the Templars",
+        "ScummVMID":  "sword25",
+        "ScraperTitle":  "Broken Sword 2.5: The Return of the Templars (English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "t7g",
+        "Engine":  "groovie",
+        "Title":  "The 7th Guest",
+        "Series":  "",
+        "FolderName":  "The_7th_Guest",
+        "ScummVMID":  "t7g",
+        "ScraperTitle":  "The 7th Guest (DOS/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "technobabylon",
+        "Engine":  "ags",
+        "Title":  "Technobabylon",
+        "Series":  "",
+        "FolderName":  "Technobabylon",
+        "ScummVMID":  "technobabylon",
+        "ScraperTitle":  "Technobabylon (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "tentacle",
+        "Engine":  "scumm",
+        "Title":  "Day of the Tentacle",
+        "Series":  "",
+        "FolderName":  "Maniac_Mansion_2",
+        "ScummVMID":  "tentacle",
+        "ScraperTitle":  "Day of the Tentacle (CD/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "toltecs",
+        "Engine":  "toltecs",
+        "Title":  "3 Skulls of the Toltecs",
+        "Series":  "",
+        "FolderName":  "3_Skulls_of_the_Toltecs",
+        "ScummVMID":  "toltecs",
+        "ScraperTitle":  "3 Skulls of the Toltecs (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "toon",
+        "Engine":  "toon",
+        "Title":  "Toonstruck",
+        "Series":  "",
+        "FolderName":  "Toonstruck",
+        "ScummVMID":  "toon",
+        "ScraperTitle":  "Toonstruck (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "touche",
+        "Engine":  "touche",
+        "Title":  "TouchÃ©: The Adventures of the Fifth Musketeer",
+        "Series":  "",
+        "FolderName":  "Tou",
+        "ScummVMID":  "touche",
+        "ScraperTitle":  "TouchÃ©: The Adventures of the Fifth Musketeer (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "twp",
+        "Engine":  "twp",
+        "Title":  "Thimbleweed Park",
+        "Series":  "",
+        "FolderName":  "Resources",
+        "ScummVMID":  "twp",
+        "ScraperTitle":  "Thimbleweed Park (GOG/1.0.958)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "unavowed",
+        "Engine":  "ags",
+        "Title":  "Unavowed",
+        "Series":  "",
+        "FolderName":  "Unavowed",
+        "ScummVMID":  "unavowed",
+        "ScraperTitle":  "Unavowed (GOG.com/English)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "urban",
+        "Engine":  "gob",
+        "Title":  "Urban Runner",
+        "Series":  "",
+        "FolderName":  "Urban_Runner",
+        "ScummVMID":  "urban",
+        "ScraperTitle":  "Urban Runner (Windows/Spanish)",
+        "Aliases":  [
+
+                    ]
+    },
+    {
+        "ShortID":  "ween",
+        "Engine":  "gob",
+        "Title":  "Ween: The Prophecy",
+        "Series":  "",
+        "FolderName":  "Ween_The_Prophecy",
+        "ScummVMID":  "ween",
+        "ScraperTitle":  "Ween: The Prophecy (DOS/Spanish)",
+        "Aliases":  [
+
+                    ]
+    }
+]

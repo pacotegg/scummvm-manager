@@ -1,0 +1,80 @@
+[
+  {
+    "Pattern": "^Leisure Suit Larry",
+    "Series": "Leisure Suit Larry",
+    "SeriesId": "lsl",
+    "RemovePrefix": "Leisure Suit Larry"
+  },
+  {
+    "Pattern": "^King'?s Quest",
+    "Series": "King's Quest",
+    "SeriesId": "kq",
+    "RemovePrefix": "King's Quest"
+  },
+  {
+    "Pattern": "^Space Quest",
+    "Series": "Space Quest",
+    "SeriesId": "sq",
+    "RemovePrefix": "Space Quest"
+  },
+  {
+    "Pattern": "^Police Quest",
+    "Series": "Police Quest",
+    "SeriesId": "pq",
+    "RemovePrefix": "Police Quest"
+  },
+  {
+    "Pattern": "^Quest for Glory",
+    "Series": "Quest for Glory",
+    "SeriesId": "qfg",
+    "RemovePrefix": "Quest for Glory"
+  },
+  {
+    "Pattern": "^Laura Bow",
+    "Series": "Laura Bow",
+    "SeriesId": "lb",
+    "RemovePrefix": "Laura Bow"
+  },
+  {
+    "Pattern": "^Monkey Island",
+    "Series": "Monkey Island",
+    "SeriesId": "mi",
+    "RemovePrefix": "Monkey Island"
+  },
+  {
+    "Pattern": "^Indiana Jones",
+    "Series": "Indiana Jones",
+    "SeriesId": "indy",
+    "RemovePrefix": "Indiana Jones and the"
+  },
+  {
+    "Pattern": "^Broken Sword",
+    "Series": "Broken Sword",
+    "SeriesId": "bs",
+    "RemovePrefix": "Broken Sword"
+  },
+  {
+    "Pattern": "^Gobliiins",
+    "Series": "Gobliiins",
+    "SeriesId": "gob",
+    "RemovePrefix": "Gobliiins"
+  },
+  {
+    "Pattern": "^Discworld",
+    "Series": "Discworld",
+    "SeriesId": "dw",
+    "RemovePrefix": "Discworld"
+  },
+  {
+    "Pattern": "^Simon the Sorcerer",
+    "Series": "Simon the Sorcerer",
+    "SeriesId": "sts",
+    "RemovePrefix": "Simon the Sorcerer"
+  },
+  {
+    "Pattern": "^Gabriel Knight",
+    "Series": "Gabriel Knight",
+    "SeriesId": "gk",
+    "RemovePrefix": "Gabriel Knight:"
+  }
+]

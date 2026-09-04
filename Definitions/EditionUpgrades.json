@@ -1,0 +1,18 @@
+{
+  "note": "Tabla curada de juegos con una edicion mejor conocida (CD/Talkie con voces). Clave = ShortID de ScummVM. Si tu edicion actual no es ya CD/Talkie, el Edition Advisor lo senala con esta nota. Ampliable a mano.",
+  "games": [
+    { "ShortID": "loom",     "Note": "Existe version CD con voces (Talkie)." },
+    { "ShortID": "atlantis", "Note": "Existe version CD 'Talkie' con voces." },
+    { "ShortID": "monkey",   "Note": "Existe version CD (FM-Towns/SEGA CD) con musica de CD." },
+    { "ShortID": "kq5",      "Note": "Existe version CD con voces." },
+    { "ShortID": "kq6",      "Note": "Existe version CD con voces." },
+    { "ShortID": "gk1",      "Note": "Existe version CD con voces (Tim Curry)." },
+    { "ShortID": "sq4",      "Note": "Existe version CD con voces." },
+    { "ShortID": "sq6",      "Note": "Existe version CD con voces." },
+    { "ShortID": "simon1",   "Note": "Existe version CD con voces (Talkie)." },
+    { "ShortID": "simon2",   "Note": "Existe version CD con voces (Talkie)." },
+    { "ShortID": "dreamweb", "Note": "Existe version CD con voces." },
+    { "ShortID": "lsl6",     "Note": "Existe version CD con voces (hi-res)." },
+    { "ShortID": "qfg4",     "Note": "Existe version CD con voces." }
+  ]
+}

@@ -1,0 +1,69 @@
+﻿{
+    "Application":  {
+                        "Name":  "ScummVM Collection Manager",
+                        "Version":  "1.0",
+                        "Author":  "PaCo_El_FLaCo"
+                    },
+    "Paths":  {
+                  "ScummVM":  "C:\\scripts\\ScummVM-Manager\\Bin\\ScummVM\\scummvm.exe",
+                  "RomFolder":  "C:\\BOBwin\\roms\\scummvm",
+                  "WindowsRomFolder":  "",
+                  "Logs":  "Logs",
+                  "Database":  "Database",
+                  "Definitions":  "Definitions"
+              },
+    "Preferences":  {
+                        "Languages":  [
+                                          "English",
+                                          "Spanish",
+                                          "French",
+                                          "German",
+                                          "Italian"
+                                      ],
+                        "Platforms":  [
+                                          "Windows",
+                                          "DOS",
+                                          "FM-TOWNS",
+                                          "PC-Engine",
+                                          "Amiga",
+                                          "Mac"
+                                      ],
+                        "PreferCD":  true,
+                        "PreferTalkie":  true,
+                        "PreferRestored":  true,
+                        "IgnoreDemo":  true,
+                        "IgnoreUnknown":  true,
+                        "MaxFolderNameLength":  100,
+                        "ApiKeys":  {
+                                        "SteamGridDB":  "ead2b81561b0e1045131dc1fbe2dbb30"
+                                    },
+                        "Scrapers":  {
+                                         "ScreenScraper":  {
+                                                               "DevId":  "pacotegg",
+                                                               "DevPassword":  "9Gvcrc9CVOi",
+                                                               "User":  "pacotegg",
+                                                               "Password":  "plx788ss"
+                                                           },
+                                         "TheGamesDB":  {
+                                                            "ApiKey":  "7c0f4d5940965cd09ab1d20274ca498e016a72245392f78982312a50ec961480"
+                                                        },
+                                         "MobyGames":  {
+                                                           "ApiKey":  ""
+                                                       },
+                                         "GiantBomb":  {
+                                                           "ApiKey":  "e43d727bb33b8316fd2ef0c1c7b02f480a29802a"
+                                                       },
+                                         "IGDB":  {
+                                                      "ClientId":  "dtw8tb79649zyqbcdvknm5mjp3ulbb",
+                                                      "ClientSecret":  "fco5kq1zn5p3c8efui3dbdv9tga01g"
+                                                  }
+                                     },
+                        "UI":  {
+                                   "Unicode":  true,
+                                   "Accent":  "Cyan",
+                                   "Theme":  "Dark",
+                                   "GuiAccent":  "Gold",
+                                   "CoverFit":  "Fit"
+                               }
+                    }
+}

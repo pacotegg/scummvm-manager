@@ -1,0 +1,88 @@
+===========================================================
+  ScummVM Collection Manager  -  Instalacion en otro PC
+  by PaCo_El_FLaCo
+===========================================================
+
+La app es PORTABLE: el .exe carga sus modulos y su config.json
+desde su propia carpeta. Por eso hay que copiar la CARPETA ENTERA,
+no solo el .exe.
+
+-----------------------------------------------------------
+PASOS
+-----------------------------------------------------------
+
+1) COPIAR
+   Copia esta carpeta completa al otro PC (a donde quieras:
+   Escritorio, C:\Tools\..., etc.). Todo tiene que viajar junto:
+   el .exe + Modules\ + config.json + Bin\ + Definitions\ + ...
+
+2) DESBLOQUEAR  (importante: es lo que mas falla)
+   Windows marca como "bloqueado" lo que viene de otro equipo o
+   de un USB, y entonces la app no carga sus modulos.
+   Abre PowerShell en la carpeta y ejecuta UNA vez:
+
+       Get-ChildItem . -Recurse | Unblock-File
+
+   (o: clic derecho en el .exe > Propiedades > marcar "Desbloquear")
+
+3) ABRIR
+   Doble clic en:  ScummVM Manager.exe
+   (alternativa sin .exe:  ScummVM Manager (GUI).cmd)
+
+4) RUTAS  (pulsa "Ajustes" si no coinciden)
+   - ScummVM:  Bin\ScummVM\scummvm.exe dentro de la carpeta.
+               Si lo tienes en otro sitio, apuntalo en Ajustes.
+   - ROMs:     por defecto C:\BOBwin\roms\scummvm
+               Si estan en otra ruta, cambialo en Ajustes.
+
+5) RESCAN
+   Pulsa "Rescan" para detectar los juegos y poblar la galeria.
+
+-----------------------------------------------------------
+SI WINDOWS SE QUEJA DEL .EXE  (SmartScreen / antivirus)
+-----------------------------------------------------------
+Los .exe hechos con ps2exe a veces salen como "desconocido"
+(falso positivo habitual).
+   - SmartScreen:  "Mas informacion" > "Ejecutar de todas formas".
+   - Si el antivirus lo borra:  usa  ScummVM Manager (GUI).cmd
+     (misma app, sin .exe), o recompilalo con  Build-Exe.ps1.
+
+-----------------------------------------------------------
+NOTAS
+-----------------------------------------------------------
+- Requisito: Windows con PowerShell 5.1 (viene de serie en Win10/11).
+- La API key de SteamGridDB va dentro de config.json (es tuya).
+- Tema Noche/Dia y acento de color se cambian en Ajustes.
+- Dos interfaces: el .exe/GUI y la consola (ScummVM Manager (consola).cmd).
+
+-----------------------------------------------------------
+SCRAPERS DE MEDIA (descargar caratula/snap/video/marquee/manual)
+-----------------------------------------------------------
+El boton "Descargar media" (en la ficha de cada juego) prueba varias
+fuentes EN ORDEN; si una no lo tiene, pasa a la siguiente. Todas las
+credenciales se meten en AJUSTES.
+
+Funciona YA sin registrarte en nada extra:
+   - SteamGridDB : caratula / fanart / marquee   (tu key ya esta puesta)
+   - libretro    : caratula / snap               (sin credenciales)
+
+Para tener ademas VIDEO, SNAP y MANUAL, registrate (gratis):
+
+1) ScreenScraper.fr  (la unica con video, snap y manual)
+   a. Crea una cuenta de usuario en https://www.screenscraper.fr
+      (arriba a la derecha, "S'inscrire" / registrarse).
+   b. Consigue un "Dev ID" y "Dev Password" (credenciales de software):
+      se piden en su foro, seccion API/desarrolladores
+      (https://www.screenscraper.fr/forumsujets.php?frub=12).
+   c. En la app: Ajustes -> ScreenScraper -> rellena Dev ID, Dev Password,
+      Usuario y Password (tu cuenta) -> Guardar.
+   Nota: sin el Dev ID/Password la fuente no se activa (se salta).
+
+2) TheGamesDB  (fallback de artwork y snap; opcional)
+   a. Pide una API key gratuita en https://api.thegamesdb.net/  (o en su
+      foro https://forums.thegamesdb.net).
+   b. En la app: Ajustes -> "TheGamesDB API key" -> pega la key -> Guardar.
+
+Consejo: si un juego "raro" no casa por nombre, prueba a renombrar bien la
+carpeta (Sync Frontend) o baja esa media a mano con "Media Finder".
+===========================================================
